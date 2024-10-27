@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	listFunction := 0
 	arrValue := map[string]string{
-		"YANDEX": "HTTPS//TEST",
+		"YANDEX": "HTTPS://TEST.RU",
 	}
 	for listFunction != 4 {
 
